@@ -1,1 +1,34 @@
 /* All styles for your Card Components live here */
+.card-div {
+    width: 100%;
+}
+
+.banner-img {
+    padding-left: 63px;
+    height: 255px;
+    width: 505px;
+}
+
+.card-text {
+    padding-left: 77px;
+}
+
+.card-text .card-intro {
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 7px;
+}
+
+.card-text .card-copy {
+    font-size: 0.9rem;
+    margin: 0;
+    margin-top: 8px;
+
+
+}
+
+.card-text .card-link {
+    font-size: 0.9rem;
+    margin-top: 6px;
+
+}
